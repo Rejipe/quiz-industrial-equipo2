@@ -1,0 +1,92 @@
+[
+  {
+    "pregunta": "¿Qué es un inventario mínimo?",
+    "opciones": {
+      "A": "La mayor cantidad de productos que puede almacenar una empresa",
+      "B": "La cantidad mínima de productos que debe haber para evitar faltantes",
+      "C": "La cantidad total de productos vendidos"
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué representa el inventario máximo?",
+    "opciones": {
+      "A": "La cantidad mínima necesaria para operar",
+      "B": "La cantidad total vendida en un periodo",
+      "C": "El nivel más alto de existencias que se puede almacenar"
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal de establecer inventarios mínimos y máximos?",
+    "opciones": {
+      "A": "Aumentar las ventas",
+      "B": "Evitar sobrecostos y faltantes de productos",
+      "C": "Eliminar la rotación de inventarios"
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es la rotación de inventarios?",
+    "opciones": {
+      "A": "El movimiento físico de productos en el almacén",
+      "B": "La frecuencia con la que se renueva el inventario en un periodo",
+      "C": "La cantidad máxima de productos almacenados"
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "Una rotación de inventarios alta indica que:",
+    "opciones": {
+      "A": "Los productos se venden lentamente",
+      "B": "Hay exceso de inventario",
+      "C": "Los productos se venden rápidamente"
+    },
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué problema puede causar una rotación de inventarios baja?",
+    "opciones": {
+      "A": "Falta de productos",
+      "B": "Acumulación y obsolescencia de mercancía",
+      "C": "Aumento en las ventas"
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué es la reposición de inventarios?",
+    "opciones": {
+      "A": "La venta de productos",
+      "B": "El proceso de volver a surtir los productos faltantes",
+      "C": "El conteo físico del almacén"
+    },
+    "correcta": "B"
+  },
+  {
+    "pregunta": "¿Cuándo se debe realizar la reposición de existencias?",
+    "opciones": {
+      "A": "Cuando el inventario llega al nivel mínimo",
+      "B": "Cuando el almacén está lleno",
+      "C": "Al final del año únicamente"
+    },
+    "correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué es el control de existencias?",
+    "opciones": {
+      "A": "La supervisión y registro de entradas y salidas de productos",
+      "B": "El traslado de mercancía",
+      "C": "El aumento del inventario máximo"
+    },
+    "correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es una consecuencia financiera de mantener inventarios excesivos?",
+    "opciones": {
+      "A": "Aumento de la liquidez",
+      "B": "Mayor capital inmovilizado y costos operativos",
+      "C": "Incremento en la rotación de inventarios"
+    },
+    "correcta": "B"
+  }
+]
